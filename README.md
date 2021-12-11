@@ -14,3 +14,5 @@ Backend-
 Express
 MongoDB
 Mongoose
+
+Contributors: @usingbrain @BartoszSwatkowski
